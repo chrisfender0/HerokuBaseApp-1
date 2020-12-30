@@ -1,0 +1,8 @@
+.pdf-viewer{ 
+	margin-left: 25%;
+	margin-right: -25%;
+}
+.pdf-viewer embed{
+	width: 800px;
+	height: 1080px;
+}
